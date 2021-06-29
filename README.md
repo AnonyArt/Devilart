@@ -64,7 +64,7 @@ Anony Devill (Devil FaceBook Hacking Tool)
                 
 <p align="center">
   <a href="http://mocrz.blogspot.com/">
-    <img src="https://img.shields.io/badge/EvilDevil-Mocrz-lightgrey">
+    <img src="https://img.shields.io/badge/Anony Devilart-Mocrz-lightgrey">
   </a> 
   <a href="https://github.com/AnonyArt/Devilart/releases">
     <img src="https://img.shields.io/badge/release-v3.0.0-blue">
@@ -76,10 +76,10 @@ Anony Devill (Devil FaceBook Hacking Tool)
       <img src="https://img.shields.io/badge/issue-0%20open-green">
   </a>
   <a href="https://github.com/AnonyArt/Devilart/wiki">
-      <img src="https://img.shields.io/badge/wiki-Devil-lightgrey">
+      <img src="https://img.shields.io/badge/wiki-Devilart-lightgrey">
  </a>
   <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/twitter-Hackerwasi-blue.svg">
+    <img src="https://img.shields.io/badge/twitter-AnonyArt-blue.svg">
  </a>
 </p>
 
