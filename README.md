@@ -16,13 +16,13 @@
 <br/>
 <br/>
 
-### Hi 🙋‍♂️,
+### Hi Gais 🙋‍♂️,
 ### I'm 29 years old Self-employer , Technical Support And Graphics Designer from Malaysia.
 
 <br/>
 
 
-**I am Into , 🙏**
+**I am Into Gais, 🙏**
 <br/>
 **Machine Learning, Web Development , Design & Basic Programming**
 
@@ -60,7 +60,7 @@
 </p>
 
 
-Evil Devill (Devil FaceBook Hacking Tool)
+Anony Devill (Devil FaceBook Hacking Tool)
                 
 <p align="center">
   <a href="http://mocrz.blogspot.com/">
