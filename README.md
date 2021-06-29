@@ -4,7 +4,7 @@
 <a href="https://twitter.com">
   <img align="left" alt="AnonyArt| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/__empty254__/">
+<a href="https://www.instagram.com/sarizan_abdul/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://github.com/AnonyArt">
